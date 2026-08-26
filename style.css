@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+}
+
+
+.perfil {
+    width: 450px;
+    height: 589px;
+    margin: 90px auto;
+    border: 3px solid #333;
+}
+
+.foto {
+    width: 174px;
+    height: 180px;
+    border: 2px solid #333;
+    padding: 8px;
+}
+
+
+
+
+.contato {
+    width: 155px;
+    height: 43px;
+    background: white;
+    border: 2px solid #333;
+    font-size: 15px;
+    color: blue;
+    text-decoration: underline;
+}
+
+
+.linha {
+    width: 100%;
+    height: 30px;
+    border: 1px solid #aaa;
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.primeiro {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #aaa;
+    padding: 5px;
+    margin-bottom: 40px;
+    font-size: 15px;
+}
+
+.segundo {
+   
+    width: 100%;
+    height: 60px;
+    border: 1px solid #aaa;
+    padding: 3px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.caixa1 {
+    width: 90px;
+    height: 90px;
+    border: 3px solid #333;
+    padding: 2px;
+    display: flex;
+    gap: 5px;
+}
+
+.caixa2 {
+    width: 90px;
+    height: 90px;
+    border: 3px solid #333;
+    padding: 2px;
+    display: flex;
+    gap: 5px;
+}
+.caixa3{
+    width: 90px;
+    height: 90px;
+    border: 3px solid #333;
+    padding: 2px;
+    display: flex;
+    gap: 5px;
+}
+
+.caixas{
+ gap: 5px;
+ display: flex;
+}
+
+
+
+
+
+
+footer {
+    height: 22px;
+    border: 2px solid #333;
+    margin: 10px 20px 30px 40px;
+    padding: 1px;
+}
